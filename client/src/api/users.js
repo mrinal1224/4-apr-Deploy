@@ -1,4 +1,4 @@
-import { axiosInstance } from "./";
+import { axiosInstance } from ".";
 
 // register a new user
 
